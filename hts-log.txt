@@ -1,0 +1,12 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 02 Oct 2025 16:33:37 at https://hotcherry.online/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://hotcherry.online/ -O1 "C:\My Web Sites\https___hotcherry.online_" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:33:46	Error: 	"Not Found" (404) at link https://hotcherry.online/images/tild3762-6462-4438-b339-653564663564__-__resize__504x__unnamed_agadpvaaagxz.gif (from https://hotcherry.online/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 9 seconds : 38 links scanned, 36 files written (11793528 bytes overall) [11536395 bytes received at 1281821 bytes/sec], 464030 bytes transferred using HTTP compression in 27 files, ratio 35%, 9.5 requests per connection
+(1 errors, 0 warnings, 0 messages)
